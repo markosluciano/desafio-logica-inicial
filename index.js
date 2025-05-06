@@ -1,4 +1,4 @@
-let nomeHeroi = "Marcos"
+let nomeHeroi = "Marcos Luciano"
 let nivelXp = 7500
 
 if (nivelXp >= 0 && nivelXp <= 1000) {
